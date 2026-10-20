@@ -1,6 +1,8 @@
 
 Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
+# KISHORE N
+# 212223065001
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
 
@@ -68,24 +70,15 @@ The system includes:
 
 ## Tabulation
 
-**Transmission Analysis Across Fiber Lengths**
+<img width="1143" height="1280" alt="WhatsApp Image 2026-10-20 at 9 05 39 PM" src="https://github.com/user-attachments/assets/efc0eb90-3e40-4ef6-b2a5-4332d6838b71" />
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1920" height="1080" alt="Screenshot 2026-10-15 110611" src="https://github.com/user-attachments/assets/3275d93e-6a39-4da0-bb8a-db97e2d0db1d" />
 
----
 
 ## RESULT
+The optical communication system was successfully simulated using OptiPerformer. As the fiber length increased from 50 km to 150 km, the following trends were observed:
 
-*(Summarize key findings from simulation and analysis)*
+Received optical power decreased due to fiber attenuation. Q-factor gradually decreased, indicating signal quality degradation. Bit Error Rate (BER) increased with distance, showing higher error probability. The eye diagram became more closed at longer fiber lengths, confirming dispersion and noise effects. Hence, the simulation verified that optical signal performance deteriorates with increasing fiber length due to attenuation and dispersion losses.
